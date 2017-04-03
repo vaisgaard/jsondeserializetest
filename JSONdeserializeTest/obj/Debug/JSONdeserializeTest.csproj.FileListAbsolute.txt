@@ -1,0 +1,8 @@
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\bin\Debug\JSONdeserializeTest.exe.config
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\bin\Debug\JSONdeserializeTest.exe
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\bin\Debug\JSONdeserializeTest.pdb
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\obj\Debug\JSONdeserializeTest.csprojResolveAssemblyReference.cache
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\obj\Debug\JSONdeserializeTest.exe
+c:\users\vaisg\documents\visual studio 2015\Projects\JSONdeserializeTest\JSONdeserializeTest\obj\Debug\JSONdeserializeTest.pdb
